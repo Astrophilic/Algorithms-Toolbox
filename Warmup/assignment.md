@@ -8,3 +8,4 @@ Problem| solved | Date
 --- | --- | --- | 
 https://www.spoj.com/problems/DOL/ |  |  |  |
 
+:
